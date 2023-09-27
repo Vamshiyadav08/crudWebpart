@@ -1,0 +1,9 @@
+@import '~@fluentui/react/dist/sass/References.scss';
+
+.crudContainer{
+  color:red;
+  align-items: center;
+  .dropdown{
+    width: 20%;
+  }
+}
